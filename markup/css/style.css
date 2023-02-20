@@ -38,8 +38,12 @@ p {
 }
 
 a {
-    padding-bottom: 40px;
+    color: white;
+    cursor: pointer;
+    text-decoration:none;
     font-weight: 400;
+    background-color: #34547A;
+    padding: 20px 40px;
 }
 
 .info {
